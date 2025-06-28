@@ -37,18 +37,8 @@ print_and_log("Time's up! Attempting to proceed...\n\n")
 
 # BEGIN MESSAGING CONNECTION
 
-message_to_send_ORIGINAL = """Hi! I'm the Founder of Smart Air Bangladesh.
-
-We're applying to the PurpleAir Donation Program to launch a nationwide air quality sensor network.
-
-We need your vote to make it happen — it takes just 2 minutes:
-https://shorturl.at/j7dgQ
-
-Your support can help us bring cleaner air and real-time pollution data to communities across Bangladesh. Thank you!
-
-— Boudewijn Sterk
-Founder & Managing Director
-Smart Air Bangladesh
+message_to_send_ORIGINAL = """Testing message
+multiline
 """
 
 message_to_send = "Linkedin automated message 🤖🤖☺️ testing... thank you for understanding!"
